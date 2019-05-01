@@ -1,4 +1,4 @@
-const lib = require("../lib/index");
+const lib = require("../index");
 const expect = require("chai").expect;
 
 describe("intoToRoman", () => {
