@@ -1,6 +1,6 @@
 {
   "name": "lib-into-roman",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Esta biblioteca se destina à conversão de algarismos romanos para arábicos (e vice-versa) para uso em aplicações web",
   "main": "index.js",
   "scripts": {
